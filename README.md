@@ -1,6 +1,7 @@
 Info: https://www.codabench.org/competitions/3527/
 
-Dataset: https://github.com/RegNLP/ObliQADataset
+Dataset: https://github.com/RegNLP/ObliQADataset 
+https://huggingface.co/datasets/DrishtiSharma/obliqa/tree/main 
 
 
 References:
