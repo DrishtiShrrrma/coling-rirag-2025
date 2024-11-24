@@ -8,3 +8,4 @@ Dataset:
 References:
 1. https://huggingface.co/blog/xhluca/bm25s
 2. https://link.springer.com/chapter/10.1007/978-3-030-45442-5_4
+3. https://huggingface.co/spaces?search=Bm25
