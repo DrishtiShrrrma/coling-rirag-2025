@@ -1,0 +1,5 @@
+sentence-transformers
+datasets
+torch
+transformers
+rank-bm25
